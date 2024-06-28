@@ -7,6 +7,8 @@ Bu projede Power Bi Kullanılarak bir şirkete ait satış,ürünisatış temsil
 
 Yıllara göre ürün adedi,indirim miktarı ve fiyat bilgisi kullanılara toplam kazanç elde edilmiş ve yıllara göre toplam kazanç miktarı görüntülenmeltedir.Yıl seçimi filtere ile kontrol edilebilir.
 
+Proje içerisindeki toplam bilgisi DAX Fonksiyonu kullanılarak elde edilmiştir.Ayrıca projede Yüzdelik dilim,SameperiodLastYear hesaplamalarını da içeren DAX Fonksiyonları bulunmaktadır.
+
 Bölgelere göre satış temsilcisi listesi ve o temsilcinin hangi bölgede ne kadar kazanç sağladığı bilgisi elde edilmiştir.
 
 Bölgelere göre ürünlerin toplam kazanç üzerindeki yüzdelik dilimleri dairesel grafikte gösterilmiştir.
