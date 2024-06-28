@@ -13,6 +13,8 @@ Bölgelere göre ürünlerin toplam kazanç üzerindeki yüzdelik dilimleri dair
 
 Toplam kazanç miktarı ve toplam satılan ürün adedi bilgisi card ile gösterilmiştir.
 
+Veriler çoklu excel tabloları ile alınıp Poer Bi uygulaması üzerinde birleştirme yapılmıştır.
 
-<img src="https://github.com/AysenurBALKAN/Travel/blob/main/TravelCoreProject/traversal_pictures/t1.PNG" width="100%" height="250px">
+
+<img src="https://github.com/AysenurBALKAN/PowerBiSatisAnalizRaporu/blob/main/powerbiProject.PNG" width="100%" height="250px">
   
