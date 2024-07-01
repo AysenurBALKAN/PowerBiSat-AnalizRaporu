@@ -19,4 +19,5 @@ Veriler çoklu excel tabloları ile alınıp Pwoer Bi uygulaması üzerinde merg
 
 
 <img src="https://github.com/AysenurBALKAN/PowerBiSatisAnalizRaporu/blob/main/powerbiProject.PNG" width="100%" height="250px">
+<img src="https://github.com/AysenurBALKAN/PowerBiSatisAnalizRaporu/blob/main/powerbiProject2.PNG" width="100%" height="250px">
   
