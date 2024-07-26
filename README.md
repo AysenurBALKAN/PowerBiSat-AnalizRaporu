@@ -15,7 +15,7 @@ Bölgelere göre ürünlerin toplam kazanç üzerindeki yüzdelik dilimleri dair
 
 Toplam kazanç miktarı ve toplam satılan ürün adedi bilgisi card ile gösterilmiştir.
 
-Veriler çoklu excel tabloları ile alınıp Pwoer Bi uygulaması üzerinde merge kullanılarak birleştirme yapılmıştır.
+Veriler çoklu excel tabloları ile alınıp Power Bi uygulaması üzerinde merge kullanılarak birleştirme yapılmıştır.
 
 
 <img src="https://github.com/AysenurBALKAN/PowerBiSatisAnalizRaporu/blob/main/powerbiProject.PNG" width="100%" height="250px">
